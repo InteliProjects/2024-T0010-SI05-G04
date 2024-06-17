@@ -1,5 +1,3 @@
-# 2024-T0010-SI05-G04
-
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
